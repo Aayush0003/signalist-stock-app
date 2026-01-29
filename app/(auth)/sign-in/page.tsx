@@ -1,4 +1,4 @@
-const SignIn:()=> Element = () => {
+const SignIn = () => {
     return (
         <div>SignInPage</div>
     )
